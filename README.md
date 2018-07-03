@@ -1,2 +1,4 @@
 # hello-world
-This is a hello-world exercise
+This is a project to help introduce me to github
+
+I live on the moon
